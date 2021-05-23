@@ -12,9 +12,11 @@ Seterusnya : https://github.com/MunimHalim/HTML_CSS/
 
 Struktur asas HTML
 
-/*<html>
+<img src='https://github.com/MunimHalim/HTML/blob/main/images/html.jpg'>
 
-//<body>
+<html>
+
+<body>
 
 <h1>Tajuk</h1>
 
@@ -23,5 +25,3 @@ Struktur asas HTML
 </body>
 
 </html>
-
-*/
