@@ -2,9 +2,7 @@
 
 Web tanpa css 
 
-Link
-
-https://html-8ujgm.ondigitalocean.app/
+Link untuk paparan : https://html-8ujgm.ondigitalocean.app/
 
 
 Seterusnya : https://github.com/MunimHalim/HTML_CSS/
@@ -13,15 +11,3 @@ Seterusnya : https://github.com/MunimHalim/HTML_CSS/
 Struktur asas HTML
 
 <img src='https://github.com/MunimHalim/HTML/blob/main/images/html.jpg'>
-
-<html>
-
-<body>
-
-<h1>Tajuk</h1>
-
-<p>Kandungan</p>
-
-</body>
-
-</html>
