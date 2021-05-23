@@ -12,14 +12,16 @@ Seterusnya : https://github.com/MunimHalim/HTML_CSS/
 
 Struktur asas HTML
 
-#<html>
+/*<html>
 
-#<body>
+//<body>
 
-#<h1>Tajuk</h1>
+<h1>Tajuk</h1>
 
-#<p>Kandungan</p>
+<p>Kandungan</p>
 
-#</body>
+</body>
 
-#</html>
+</html>
+
+*/
